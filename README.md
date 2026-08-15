@@ -70,3 +70,7 @@ RestrauntIdeaGen/
 - [LangChain](https://python.langchain.com/) (LCEL chains, ChatOpenAI)
 - OpenAI GPT-4o-mini
 - Streamlit
+## Recent Updates
+
+- Improved project documentation
+- Updated project setup instructions 
